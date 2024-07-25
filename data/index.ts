@@ -144,7 +144,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Full Stack Developer",
+    title: "Devops Engineer",
     desc: "Developed an end-to-end application which ensures the users privacy by securing their camera and microphone.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
