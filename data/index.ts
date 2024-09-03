@@ -50,7 +50,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building My Dream project : Ethical hacking using Artificial Intelligence",
+    title: "Currently building a project : Dark Web Forensic Investigation and Mitigation of Unethical data using Machine Learning.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute bg-cover rounded-lg right-0 bottom-0 md:w-96 w-60",
